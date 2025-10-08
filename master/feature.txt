@@ -1,0 +1,16 @@
+Typing Indicator (e.g., "User is typing...")
+
+Voice messages or emoji support
+
+Group chat support
+
+WebSocket integration (for real push without polling)
+
+Chat themes / dark mode
+
+Read receipts per message (like ✔️ / ✔️✔️ blue ticks)
+
+Admin Panel to manage users/messages
+
+Profile
+
